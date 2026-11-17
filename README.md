@@ -1,16 +1,14 @@
-## Hi there 👋
+### ¡Hola, bienvenido/a a mi perfil! 👋
 
-<!--
-**AxoD33/AxoD33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Adderly Xavier Orozco de la Hoz** (**@AxoD**), Ingeniero de Sistemas apasionado por el desarrollo de software, las aplicaciones web interactivas y las soluciones tecnológicas con impacto social.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí y mis proyectos:
+- 💻 **Especialidad:** Desarrollo web frontend/backend, diseño de arquitecturas livianas y experiencias de usuario intuitivas.
+- 🛡️ **Proyecto Destacado:** *Laboratorio Móvil de Prevención del Fraude Digital* (Plataforma interactiva desarrollada para la educación financiera y el CAI La Alquería / Policía Nacional).
+- 🛠️ **Stack habitual:** HTML5, CSS3, JavaScript, Tailwind CSS, Git/GitHub y entornos Linux (Ubuntu).
+
+📫 **¿Cómo contactarme?**
+- **Correo:** [axorozcod@unincca.edu.co](mailto:axorozcod@unincca.edu.co) / [cobra9.2@hotmail.es](mailto:cobra9.2@hotmail.es)
+- **GitHub:** [@AxoD33](https://github.com/AxoD33)
